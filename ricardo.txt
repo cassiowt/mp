@@ -1,5 +1,0 @@
-commit do curso git mp
-
-Ricardo usando o GIT
-
-GO GIT
