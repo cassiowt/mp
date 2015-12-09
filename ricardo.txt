@@ -4,4 +4,4 @@ Ricardo usando o GIT
 
 GO GIT
 
-O GIT é o canal!
+O GIT é o canal, ou não!
